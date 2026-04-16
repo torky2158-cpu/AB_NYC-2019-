@@ -1,6 +1,6 @@
 # Airbnb NYC 2019 — Data Cleaning & Modeling
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Project-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?logo=powerbi&logoColor=black)
 
 ## About the project
 This project focuses on cleaning and modeling the AB_NYC_2019 dataset using Power BI. The raw data came as a single flat file and was transformed into a proper star schema with fact and dimension tables.
